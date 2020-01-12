@@ -1,16 +1,15 @@
 # 1WirePCB
-1Wire PCB for DS9490R/Raspberry Pi and ESPEasy 1Wire WEMOS
-
-
-
-
-
+This 1Wire PCB for is designed for SmartHome tasks. You can hook up 1-Wire sensors like Dallas DS18B20 temperature sensors. You can use it directly with the DS9490R Adapter. You can connect multiple PCBS together. 
 
 # Features
 * 6x 1 Wire Ports
-* 2 RJ12 Ports
+* 2x RJ12 Ports
 * Jumper for Parasite/Normal Mode
-
+* 52mm x 52mm board
+* DIN-Rail adapter mounting holes
+* connects via RJ12 cable and DS9490R 1-Wire USB Adapter
+* connect multiple PCBs for more ports via RJ12 cable
+* compatible to ESPEasy 1Wire WEMOS PCB
 
 # Changelog
 ### [ALL RELEASES](https://github.com/ps915/1WirePCB/releases) 
@@ -18,13 +17,14 @@
 * inital release
 
 # What do you need
-
-
+(some links below are affiliate links / Werbung)
 * 1x PCB (how to order, see below)
-
-
-(some links above are affiliate links / Werbung)
-
+* 1x [1206 SMD Resistor (4.7k Ohm)](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200112110705&origin=y&SearchText=1206+4.7k)
+* 6x [KF301-5.0MM 3 Pin](https://www.aliexpress.com/item/32993227789.html?spm=a2g0s.9042311.0.0.11f14c4dlOZM5O)
+* 2x [RJ12 Ports(YT2038Y RJ12 Socket)](https://www.aliexpress.com/item/32826457723.html?spm=a2g0s.9042311.0.0.27424c4dtJcrk7)
+* 1x [RJ12 Cable](https://www.aliexpress.com/item/32950099719.html?spm=a2g0o.productlist.0.0.4bae1914BDWc5X&algo_pvid=efd04b48-6dfc-4e69-bde2-b0cc9a2bb70d&algo_expid=efd04b48-6dfc-4e69-bde2-b0cc9a2bb70d-0)
+* 9x [RM2.54 Pin Header](https://www.aliexpress.com/item/32993182990.html?spm=a2g0o.productlist.0.0.5ff559e3PqhxhB&algo_pvid=1c99f02f-8e0c-4b8a-921f-8bdcd2df69a3)
+* 1x [Jumper](https://www.aliexpress.com/item/32827199777.html?spm=a2g0o.productlist.0.0.b03824fevs4shF&algo_pvid=7cd4c865-aaff-4c02-b72a-da7e020916ae)
 
 # Shematics
 
