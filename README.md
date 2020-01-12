@@ -27,7 +27,7 @@ This 1Wire PCB for is designed for SmartHome tasks. You can hook up 1-Wire senso
 * 1x [Jumper](https://www.aliexpress.com/item/32827199777.html?spm=a2g0o.productlist.0.0.b03824fevs4shF&algo_pvid=7cd4c865-aaff-4c02-b72a-da7e020916ae)
 
 # Shematics
-
+<img src="https://github.com/ps915/1WirePCB/blob/master/shematic.png" width="500">
 
 # Ordering the PCB from shared project
 here you can order my shared project: [https://www.pcbway.com/project/shareproject/.html](https://www.pcbway.com/project/shareproject/.html)
