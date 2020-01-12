@@ -34,7 +34,7 @@ This 1Wire PCB for is designed for SmartHome tasks. You can hook up 1-Wire senso
 <img src="https://github.com/ps915/1WirePCB/blob/master/shematic.png" width="500">
 
 # Ordering the PCB from shared project
-here you can order my shared project: [https://www.pcbway.com/project/shareproject/.html](https://www.pcbway.com/project/shareproject/.html)
+here you can order my shared project: [https://www.pcbway.com/project/shareproject/1WirePCB_for_SmartHome.html](https://www.pcbway.com/project/shareproject/1WirePCB_for_SmartHome.html)
 
 1. Click on "Add to Cart"
 2. Set Quantity to "10"
