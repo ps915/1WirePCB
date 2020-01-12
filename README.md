@@ -1,5 +1,7 @@
+<img src="https://github.com/ps915/1WirePCB/blob/master/render_1.PNG" width="300"> <img src="https://github.com/ps915/1WirePCB/blob/master/render_2.PNG" width="300">
+
 # 1WirePCB
-This 1Wire PCB for is designed for SmartHome tasks. You can hook up 1-Wire sensors like Dallas DS18B20 temperature sensors. You can use it directly with the DS9490R Adapter. You can connect multiple PCBS together. 
+This 1Wire PCB for is designed for SmartHome tasks. You can hook up 1-Wire sensors like Dallas DS18B20 temperature sensors. You can use it directly with the DS9490R Adapter. You can connect multiple PCBS together.
 
 # Features
 * 6x 1 Wire Ports
@@ -67,6 +69,16 @@ you can order the latest PCB from china when you downloaded my gerber file from 
 7. click "Submit Order" and pay!
 8. share unused PCBs with the community! =)
 
-Photos V1.0:
+# Photos V1.0:
 
-<img src="https://github.com/" width="300">
+<img src="https://github.com/ps915/1WirePCB/blob/master/1WirePCB_1.jpg" width="300">
+connected via RJ12 cable to DS9490R 1-Wire USB Adapter and Raspberry Pi. Can be used for FHEM.
+
+<img src="https://github.com/ps915/1WirePCB/blob/master/1WirePCB_2.jpg" width="300">
+RJ12 Bbreakout and Jumper
+
+<img src="https://github.com/ps915/1WirePCB/blob/master/1WirePCB_3.jpg" width="300">
+DIN Rail Mounting Adapter. Please cut off where the adapter is not flat on the PCB because of the RJ12 Ports.
+
+<img src="https://github.com/ps915/1WirePCB/blob/master/1WirePCB_4.jpg" width="300">
+RJ12 Cable connected
