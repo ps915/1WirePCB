@@ -28,6 +28,7 @@ This 1Wire PCB for is designed for SmartHome tasks. You can hook up 1-Wire senso
 * 9x [RM2.54 Pin Header](https://www.aliexpress.com/item/32993182990.html?spm=a2g0o.productlist.0.0.5ff559e3PqhxhB&algo_pvid=1c99f02f-8e0c-4b8a-921f-8bdcd2df69a3)
 * 1x [Jumper](https://www.aliexpress.com/item/32827199777.html?spm=a2g0o.productlist.0.0.b03824fevs4shF&algo_pvid=7cd4c865-aaff-4c02-b72a-da7e020916ae)
 * 1x [DIN Rail Mounting Adapter](https://www.aliexpress.com/item/4000071781520.html?spm=a2g0s.9042311.0.0.27424c4daAZjCR)
+* [Dallas DS18B20 temperature sensors](https://www.aliexpress.com/item/32860832147.html?spm=a2g0o.productlist.0.0.32822a6asOXdkI&algo_pvid=34dac790-123b-429b-942c-bdbb9d066a13&algo_expid=34dac790-123b-429b-942c-bdbb9d066a13-0&btsid=d97b5427-d6d0-486a-b3a2-73242867ab21&ws_ab_test=searchweb0_0,searchweb201602_7,searchweb201603_53)
 
 # Shematics
 <img src="https://github.com/ps915/1WirePCB/blob/master/shematic.png" width="500">
