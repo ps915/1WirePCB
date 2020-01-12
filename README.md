@@ -30,6 +30,9 @@ This 1Wire PCB for is designed for SmartHome tasks. You can hook up 1-Wire senso
 * 1x [DIN Rail Mounting Adapter](https://www.aliexpress.com/item/4000071781520.html?spm=a2g0s.9042311.0.0.27424c4daAZjCR)
 * [Dallas DS18B20 temperature sensors](https://www.aliexpress.com/item/32860832147.html?spm=a2g0o.productlist.0.0.32822a6asOXdkI&algo_pvid=34dac790-123b-429b-942c-bdbb9d066a13&algo_expid=34dac790-123b-429b-942c-bdbb9d066a13-0&btsid=d97b5427-d6d0-486a-b3a2-73242867ab21&ws_ab_test=searchweb0_0,searchweb201602_7,searchweb201603_53)
 
+# Support me
+if you like this project and what to support me and my work, you can do it via [Patreon](https://www.patreon.com/philippseidel) or [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2BCQ846V4TD3C)
+
 # Shematics
 <img src="https://github.com/ps915/1WirePCB/blob/master/shematic.png" width="500">
 
