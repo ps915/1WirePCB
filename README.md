@@ -27,7 +27,7 @@ This 1Wire PCB for is designed for SmartHome tasks. You can hook up 1-Wire senso
 * 1x [RJ12 Cable](https://www.aliexpress.com/item/32950099719.html?spm=a2g0o.productlist.0.0.4bae1914BDWc5X&algo_pvid=efd04b48-6dfc-4e69-bde2-b0cc9a2bb70d&algo_expid=efd04b48-6dfc-4e69-bde2-b0cc9a2bb70d-0)
 * 9x [RM2.54 Pin Header](https://www.aliexpress.com/item/32993182990.html?spm=a2g0o.productlist.0.0.5ff559e3PqhxhB&algo_pvid=1c99f02f-8e0c-4b8a-921f-8bdcd2df69a3)
 * 1x [Jumper](https://www.aliexpress.com/item/32827199777.html?spm=a2g0o.productlist.0.0.b03824fevs4shF&algo_pvid=7cd4c865-aaff-4c02-b72a-da7e020916ae)
-* [DIN Rail Mounting Adapter](https://www.aliexpress.com/item/4000071781520.html?spm=a2g0s.9042311.0.0.27424c4daAZjCR)
+* 1x [DIN Rail Mounting Adapter](https://www.aliexpress.com/item/4000071781520.html?spm=a2g0s.9042311.0.0.27424c4daAZjCR)
 
 # Shematics
 <img src="https://github.com/ps915/1WirePCB/blob/master/shematic.png" width="500">
